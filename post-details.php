@@ -4,6 +4,8 @@
  * Plugin Name: Post Details
  * Description: A simple plugin to display post details.
  * Version: 1.0
+ * Author: Samir
+ * Author URI: https://mashiuzzaman.com
 **/
 
 if ( ! defined( 'ABSPATH' ) ) {
